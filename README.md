@@ -30,4 +30,8 @@ curl https://api.spark.io/v1/devices/[device id here]/led -d access_token=[your 
 
 Feel like Iron man , you can now control your house directly from your motor-neurons :)
 
+#Video
+
+You can now watch it in action : http://youtu.be/a5jYnW2dpvk
+
 http://amit.sh
